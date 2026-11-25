@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# 스크립트가 실행 시 자동 생성하는 워드리스트
+Authentication/4digit.txt
+SQLI/test.txt
+
+# 업로드 실습용 웹셸 (로컬에서만 생성해서 사용)
+File Upload Vulnerabilities/web_shell.php
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
